@@ -1,0 +1,12 @@
+{
+    "board":{
+        "board-1":"board_white",
+        "board-2":"board_black",
+        "selected":"board_y",
+        "legal-move-white":"board_g",
+        "legal-move-black":"board_b",
+        "move-capture":"board_r",
+        "in-check":"board_o"
+    },
+    "fullscreen":true
+}
